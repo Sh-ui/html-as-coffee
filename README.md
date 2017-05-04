@@ -22,10 +22,12 @@
 
 ### sourcing:
 
+[**-** TeaCup templates for rendering](https://github.com/goodeggs/teacup/blob/master/lib/teacup.js)
+
 [**-** CoffeeScript compiling using official CS src](https://github.com/jashkenas/coffeescript)
 
 [**-** Testing HTML conversion for CoffeeKup](http://coffeekup.org/)
 
 ----
 
-**more to come ...**
+### [file-info](https://github.com/Sh-ui/caffeinated-html/blob/master/file-info.md)
