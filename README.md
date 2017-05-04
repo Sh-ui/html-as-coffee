@@ -6,7 +6,7 @@
   - Write the main core of the page in coffeescript (integrating HTML, JS, and possibly CSS into one document).
   - Integrate less, css and other external components through git.
   - Execute all code to a single HTML file that compiles and minifies all base code 
-    to be used quickly and automatically in the browser...
+    to be used quickly and automatically in the browser.
 
 ----
 
@@ -28,4 +28,4 @@
 
 ----
 
-**more to come ... ?**
+**more to come ...**
