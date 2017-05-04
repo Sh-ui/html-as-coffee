@@ -1,4 +1,4 @@
-# html-as-coffee
+# caffeinated-html
 
 **I made this repo to test methods for writing wepages in CoffeeScript (using as much coffee as I can).**
 
