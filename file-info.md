@@ -1,14 +1,20 @@
-## repo-info
+## file-info
 
-```coffee
+```python
 
-brewing.coffee        # this is where all the page content goes
+brewing.html             # content from js dependencies and coffeescript page is loaded from here
 
-brewing.html          # the above is rendered here as html (load me to see your page)
+source                   # folder for scripts and such
+  
+  /brewing.coffee        # this is where all the page content goes
+  
+  /coffee-script.coffee  # this might be used to compile coffee locally
+  
+  /require.js            # enables 'require' statements that tie files together
 
-coffee-script.coffee  # this might be used to compile coffee locally
+  /styles.css            # this is the styles sheet for brewing.coffee
 
-styles.css            # this is the styles sheet for brewing.coffee
+  /teacup.js             # this makes sure b.coffee can be understood by b.html
 
-teacup.js             # this makes sure b.coffee can be understood by b.html
 ```
+#### [↵README](https://github.com/Sh-ui/caffeinated-html/tree/fix-reference#caffeinated-html)
