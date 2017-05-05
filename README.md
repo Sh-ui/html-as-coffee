@@ -1,8 +1,8 @@
 # caffeinated-html
 
-**I made this repo to test methods for writing wepages in CoffeeScript (using as much coffee as I can).**
+**I made this repo to test methods for writing webpages in CoffeeScript (using as much coffee as I can).**
 
-**My end goal / intention with this project is to write webpages as such:**
+**My end goal / intention with this project is to develop sites as such:**
   - Write the main core of the page in coffeescript (integrating HTML, JS, and possibly CSS into one document).
   - Integrate less, css and other external components through git.
   - Execute all code to a single HTML file that compiles and minifies all base code 
