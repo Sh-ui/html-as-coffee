@@ -94,3 +94,4 @@ coffee = require 'coffee-script.coffee'
             h3 '#pressure', 'Pressure'
 
             p  'Espresso is made by forcing hot water at 91–95 °C (195–204 °F) under a pressure of between eight and eighteen bars (800–1800 kPa, 116–261 psi), through a lightly packed matrix, called a \'puck,\' of finely ground coffee. The 30–60 cc (1–2 oz.) beverage is served in demitasse cups; sugar is often added. It is consumed during the day at cafes and from street vendors, or after an evening meal. It is the basis for many coffee drinks. It is one of the most concentrated forms of coffee regularly consumed, with a distinctive flavor provided by crema, a layer of flavorful emulsified oils in the form of a colloidal foam floating on the surface, which is produced by the high pressure. Espresso is more viscous than other forms of brewed coffee.'
+            
