@@ -4,7 +4,7 @@
 
 /brewing.html              # content from js dependencies and coffeescript page is loaded from here
 
-/source
+/source                    # folder for scripts and such
   
   ../brewing.coffee        # this is where all the page content goes
   
