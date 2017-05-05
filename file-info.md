@@ -1,6 +1,6 @@
 ## file-info
 
-```coffee
+```python
 
 brewing.html             # content from js dependencies and coffeescript page is loaded from here
 
