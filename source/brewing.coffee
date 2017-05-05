@@ -1,4 +1,5 @@
 ### C O F F E E . B R E W I N G ###
+
 requirejs.config
   baseUrl: 'source'
   paths: app: 'source/brewing.coffee'
