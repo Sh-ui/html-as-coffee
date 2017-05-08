@@ -26,7 +26,9 @@
 
 [**-** Testing HTML conversion for CoffeeKup](http://coffeekup.org/)
 
-[**full-source-dump**](https://github.com/Sh-ui/caffeinated-html/projects/3)
+[**- full-source-dump**](https://github.com/Sh-ui/caffeinated-html/projects/3)
 
+
+---
 
 ## [file-info](https://github.com/Sh-ui/caffeinated-html/blob/master/file-info.md)
