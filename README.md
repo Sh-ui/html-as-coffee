@@ -1,4 +1,4 @@
-# caffeinated-html
+# Caffeinated HTML
 
 **I made this repo to test methods for writing webpages in CoffeeScript (using as much coffee as I can).**
 
@@ -8,9 +8,8 @@
   - Execute all code to a single HTML file that compiles and minifies all base code 
     to be used quickly and automatically in the browser.
 
-----
 
-### based-on:
+## based-on:
 
 [**-** TeaCup, templating html in CoffeeScript](https://github.com/goodeggs/teacup)
 
@@ -18,9 +17,8 @@
 
 [**-** Grimoire, a "magic" document](https://autotelicum.github.io/Smooth-CoffeeScript/interactive/grimoire.html)
 
-----
 
-### sourcing:
+## sourcing:
 
 [**-** TeaCup templates for rendering](https://github.com/goodeggs/teacup/blob/master/lib/teacup.js)
 
@@ -28,6 +26,7 @@
 
 [**-** Testing HTML conversion for CoffeeKup](http://coffeekup.org/)
 
-----
+[**full-source-dump**](https://github.com/Sh-ui/caffeinated-html/projects/3)
 
-### [file-info](https://github.com/Sh-ui/caffeinated-html/blob/master/file-info.md)
+
+## [file-info](https://github.com/Sh-ui/caffeinated-html/blob/master/file-info.md)
