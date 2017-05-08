@@ -17,4 +17,4 @@ source                   # folder for scripts and such
   /teacup.js             # this makes sure b.coffee can be understood by b.html
 
 ```
-#### [↵README](https://github.com/Sh-ui/caffeinated-html/tree/fix-reference#caffeinated-html)
+#### [↵README](https://github.com/Sh-ui/caffeinated-html#caffeinated-html)
