@@ -3,9 +3,10 @@
 **I made this repo to test methods for writing webpages in CoffeeScript (using as much coffee as I can).**
 
 **My end goal / intention with this project is to develop sites as such:**
-  - Write the main core of the page in coffeescript (integrating HTML, JS, and possibly CSS into one document).
+  - Write the main core of the page in coffeescript (integrating HTML, JS, and CSS whenever possible).
   - Integrate less, css and other external components through git.
-  - Execute all code to a single HTML file that compiles and minifies all base code 
+  - Set up a system for modularizing page components quickly and easily (header, footer, etc.)
+  - Execute all code to a single HTML file that is compiled and minified &/or compressed
     to be used quickly and automatically in the browser.
 
 
@@ -25,8 +26,3 @@
 [**-** Testing HTML conversion for CoffeeKup](http://coffeekup.org/)
 
 [**- full-source-dump**](https://github.com/Sh-ui/caffeinated-html/projects/3)
-
-
----
-
-
