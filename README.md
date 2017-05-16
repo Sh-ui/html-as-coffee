@@ -2,7 +2,7 @@
 
 **I made this repo to test methods for writing webpages in CoffeeScript (using as much coffee as I can).**
 
-**My end [goal](/#goals-documentation) / intention with this project is to develop sites as such:**
+**My end [goal](/#goals--documentation) / intention with this project is to develop sites as such:**
   - Write the main core of the page in coffeescript (integrating HTML, JS, and CSS whenever possible).
   - Potentially integrate less, md, litcoffee, and other web-convertible langs
   - Modularize page components to be used and edited quickly and easily (header, footer, etc.)
