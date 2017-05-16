@@ -2,7 +2,7 @@
 
 **I made this repo to test methods for writing webpages in CoffeeScript (using as much coffee as I can).**
 
- 
+...
 
 **My end goal / intention with this project is to develop sites as such:**
   - Write the main core of the page in coffeescript (integrating HTML, JS, and CSS whenever possible).
@@ -12,7 +12,7 @@
     to be used efficiently and in a browser or app.
   - Images and other assets will likely be outsourced, but with code that is unique to **your page** united
 
- 
+...
 
 Ultimately this system strives to break up development into concise chunks of code and content that are easy to understand and edit, allowing developers to: get more done faster, find errors quickly, improve sustainability, etc.
 
@@ -34,8 +34,8 @@ Ultimately this system strives to break up development into concise chunks of co
 
 [**-** Testing HTML conversion for CoffeeKup](http://coffeekup.org/)
 
-[**- full-source-dump**](https://github.com/Sh-ui/caffeinated-html/projects/3)
-
 ・・・
+
+### [full-source-dump](https://github.com/Sh-ui/caffeinated-html/projects/3)
 
 ### [goals-&-documentation](https://github.com/Sh-ui/caffeinated-html/projects/1)
