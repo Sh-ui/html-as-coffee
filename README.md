@@ -14,6 +14,7 @@
 
 Ultimately this system strives to break up development into concise chunks of code and content that are easy to understand and edit, allowing developers to: get more done faster, find errors quickly, improve sustainability, etc.
 
+</br>
 ・・・
 
 ## based-on:
@@ -24,6 +25,7 @@ Ultimately this system strives to break up development into concise chunks of co
 
 [**-** Grimoire, a "magic" document](https://autotelicum.github.io/Smooth-CoffeeScript/interactive/grimoire.html)
 
+</br>
 ・・・
 
 ## sourcing:
@@ -32,6 +34,7 @@ Ultimately this system strives to break up development into concise chunks of co
 
 [**-** Testing HTML conversion for CoffeeKup](http://coffeekup.org/)
 
+</br>
 ・・・
 
 ### [full-source-dump](https://github.com/Sh-ui/caffeinated-html/projects/3)
