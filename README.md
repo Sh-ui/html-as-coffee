@@ -4,11 +4,15 @@
 
 **My end goal / intention with this project is to develop sites as such:**
   - Write the main core of the page in coffeescript (integrating HTML, JS, and CSS whenever possible).
-  - Integrate less, css and other external components through git.
-  - Set up a system for modularizing page components quickly and easily (header, footer, etc.)
-  - Execute all code to a single HTML file that is compiled and minified &/or compressed
-    to be used quickly and automatically in the browser.
+  - Potentially integrate less, md, litcoffee, and other web-convertible langs
+  - Modularize page components to be used and edited quickly and easily (header, footer, etc.)
+  - Process all code across many components &/or languages to a single HTML file that is compiled and minified &/or compressed
+    to be used efficiently and in a browser or app.
+  - Images and other assets will likely be outsourced, but with code that is unique to **your page** united
+  
+### [Goals and documentation](https://github.com/Sh-ui/caffeinated-html/projects/1)
 
+> **Ultimately this system strives to break up development into concise chunks of code and content that are easy to understand and edit, allowing developers to: get more done faster, find errors quickly, improve sustainability, etc.**
 
 ## based-on:
 
