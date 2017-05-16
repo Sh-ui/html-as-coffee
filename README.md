@@ -10,7 +10,7 @@
     to be used efficiently and in a browser or app.
   - Images and other assets will likely be outsourced, but with code that is unique to **your page** united
 
-  **~**
+**  ~**
 
 Ultimately this system strives to break up development into concise chunks of code and content that are easy to understand and edit, allowing developers to: get more done faster, find errors quickly, improve sustainability, etc.
 
