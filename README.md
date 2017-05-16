@@ -1,4 +1,4 @@
-# Caffeinated HTML ☕
+# Caffeinated HTML <☕>
 
 **I made this repo to test methods for writing webpages in CoffeeScript (using as much coffee as I can).**
 
