@@ -10,9 +10,11 @@
     to be used efficiently and in a browser or app.
   - Images and other assets will likely be outsourced, but with code that is unique to **your page** united
   
-### [Goals and documentation](https://github.com/Sh-ui/caffeinated-html/projects/1)
+  - ### [goals and documentation](https://github.com/Sh-ui/caffeinated-html/projects/1)
 
-> **Ultimately this system strives to break up development into concise chunks of code and content that are easy to understand and edit, allowing developers to: get more done faster, find errors quickly, improve sustainability, etc.**
+**Ultimately this system strives to break up development into concise chunks of code and content that are easy to understand and edit, allowing developers to: get more done faster, find errors quickly, improve sustainability, etc.**
+
+---
 
 ## based-on:
 
