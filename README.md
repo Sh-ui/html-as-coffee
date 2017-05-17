@@ -9,12 +9,12 @@
   - Process all code across many components &/or languages to a single HTML file that is compiled and minified &/or compressed
     to be used efficiently and in a browser or app.
   - Images and other assets will likely be outsourced, but with code that is unique to **your page** united
-
 </br>
 
 Ultimately this system strives to break up development into concise chunks of code and content that are easy to understand and edit, allowing developers to: get more done faster, find errors quickly, improve sustainability, etc.
 
-<p>‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ </p>
+
+###### ・・・・
 
 ## based-on:
 
@@ -24,7 +24,8 @@ Ultimately this system strives to break up development into concise chunks of co
 
 [**-** Grimoire, a "magic" document](https://autotelicum.github.io/Smooth-CoffeeScript/interactive/grimoire.html)
 
-<p>‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ </p>
+
+###### ・・・・
 
 ## sourcing:
 
@@ -32,7 +33,8 @@ Ultimately this system strives to break up development into concise chunks of co
 
 [**-** Testing HTML conversion for CoffeeKup](http://coffeekup.org/)
 
-<p>‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ ‧ </p>
+
+###### ・・・・
 
 ### [full-source-dump](https://github.com/Sh-ui/caffeinated-html/projects/3)
 
