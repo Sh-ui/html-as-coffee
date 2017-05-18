@@ -1,8 +1,9 @@
+
 # Caffeinated HTML ☕
 
 **I made this repo to test methods for writing webpages in CoffeeScript (using as much coffee as I can).**
 
-**My end [goal](https://github.com/Sh-ui/caffeinated-html/blob/fix-reference/README.md#goals--documentation) / intention with this project is to develop sites as such:**
+**My end [goal](README.md/#goals--documentation) / intention with this project is to develop sites as such:**
 
 - Write the main core of the page in coffeescript (integrating HTML, JS, and CSS whenever possible).
 
@@ -24,20 +25,20 @@ Ultimately this system strives to break up development into concise chunks of co
 
 ## based-on:
 
-- [**TeaCup, templating html in CoffeeScript**](https://github.com/goodeggs/teacup)
+[**⠂** TeaCup, templating html in CoffeeScript](https://github.com/goodeggs/teacup)
 
-- [**CoffeeCup Examples**](https://github.com/gradus/coffeecup/tree/master/examples/browser)
+[**⠂** CoffeeCup Examples](https://github.com/gradus/coffeecup/tree/master/examples/browser)
 
-- [**Grimoire, a "magic" document**](https://autotelicum.github.io/Smooth-CoffeeScript/interactive/grimoire.html)
+[**⠂** Grimoire, a "magic" document](https://autotelicum.github.io/Smooth-CoffeeScript/interactive/grimoire.html)
 
 
 ###### ・・・・
 
 ## sourcing:
 
-- [**coffee-world to convert coffee directly to html locally**](https://github.com/Sh-ui/coffee-world)
+[**⠂** Using coffee-world to convert coffee directly to html locally](https://github.com/Sh-ui/coffee-world)
 
-- [**Testing HTML conversion for CoffeeKup**](http://coffeekup.org/)
+[**⠂** Testing HTML conversion for CoffeeKup](http://coffeekup.org/)
 
 
 ###### ・・・・
