@@ -4,16 +4,16 @@
 
 **My end [goal](https://github.com/Sh-ui/caffeinated-html/blob/fix-reference/README.md#goals--documentation) / intention with this project is to develop sites as such:**
 
-	- Write the main core of the page in coffeescript (integrating HTML, JS, and CSS whenever possible).
+- Write the main core of the page in coffeescript (integrating HTML, JS, and CSS whenever possible).
 
-	- Potentially integrate less, md, litcoffee, and other web-convertible langs
+- Potentially integrate less, md, litcoffee, and other web-convertible langs
 
-	- Modularize page components to be used and edited quickly and easily (header, footer, etc.)
+- Modularize page components to be used and edited quickly and easily (header, footer, etc.)
 
-	- Process all code across many components &/or languages to a single HTML file that is compiled and minified &/or compressed
-		to be used efficiently and in a browser or app.
+- Process all code across many components &/or languages to a single HTML file that is compiled and minified &/or compressed
+	to be used efficiently and in a browser or app.
 
-	- Images and other assets will likely be outsourced, but with code that is unique to **your page** united
+- Images and other assets will likely be outsourced, but with code that is unique to **your page** united
 
 </br>
 
