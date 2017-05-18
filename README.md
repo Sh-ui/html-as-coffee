@@ -13,7 +13,7 @@
 - Process all code across many components &/or languages to a single HTML file that is compiled and minified &/or compressed
 	to be used efficiently and in a browser or app.
 
-- Images and other assets will likely be outsourced, but with code that is unique to **your page** united
+- Images and other assets will likely be outsourced, but with code that is unique to **your page**; united
 
 </br>
 
@@ -24,20 +24,20 @@ Ultimately this system strives to break up development into concise chunks of co
 
 ## based-on:
 
-[**⠂** TeaCup, templating html in CoffeeScript](https://github.com/goodeggs/teacup)
+- [**TeaCup, templating html in CoffeeScript**](https://github.com/goodeggs/teacup)
 
-[**⠂** CoffeeCup Examples](https://github.com/gradus/coffeecup/tree/master/examples/browser)
+- [**CoffeeCup Examples**](https://github.com/gradus/coffeecup/tree/master/examples/browser)
 
-[**⠂** Grimoire, a "magic" document](https://autotelicum.github.io/Smooth-CoffeeScript/interactive/grimoire.html)
+- [**Grimoire, a "magic" document**](https://autotelicum.github.io/Smooth-CoffeeScript/interactive/grimoire.html)
 
 
 ###### ・・・・
 
 ## sourcing:
 
-[**⠂** coffee-world to convert coffee directly to html locally](https://github.com/Sh-ui/coffee-world)
+- [**coffee-world to convert coffee directly to html locally**](https://github.com/Sh-ui/coffee-world)
 
-[**⠂** Testing HTML conversion for CoffeeKup](http://coffeekup.org/)
+- [**Testing HTML conversion for CoffeeKup**](http://coffeekup.org/)
 
 
 ###### ・・・・
