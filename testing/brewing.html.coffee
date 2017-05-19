@@ -1,6 +1,6 @@
-# @header = require 'components.coffee'
-# @header.header()
-#
+@header = require 'components.coffee'
+@header.header()
+
 doctype 5
 html ->
 
@@ -15,10 +15,10 @@ html ->
 
 
 	body ->
-#
-#		aside ->
-#			@header
-#			
+
+		aside ->
+			@header
+			
 		section ->
 			h1 'Making Coffee'
 			h2 'Brewing'
