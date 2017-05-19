@@ -1,3 +1,6 @@
+@header = require 'components.coffee'
+@header.header()
+
 doctype 5
 html ->
 
@@ -10,7 +13,12 @@ html ->
 		,    rel:  'stylesheet'
 		,    type: 'text/css'
 
+
 	body ->
+
+		aside ->
+			@header
+			
 		section ->
 			h1 'Making Coffee'
 			h2 'Brewing'
