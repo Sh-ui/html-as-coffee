@@ -1,9 +1,9 @@
-# @header = require 'components.coffee'
-# @header.header()
+comment '\nhttps://htmlpreview.github.io/?https://github.com/Sh-ui/caffeinated-html/blob/master/testing/brewing.html\n⚠ some assets are skipped in preview, for proper page you must CLONE THE REPO ⚠\n'
+text '\n'
 
 doctype 5
 html ->
-	
+
 	head ->
 		meta charset: 'utf-8'
 		title 'Caffeine Test'
@@ -13,13 +13,10 @@ html ->
 		,    href: 'lib/styles/styles.css'
 
 		link rel:  'icon'
-		,    type: 'image/svg+xml'
-		,    href: 'lib/media/ccoffeecup.svg'
+		,    type: 'image/gif'
+		,    href: 'lib/media/coffeecupicon.gif'
 
 	body ->
-#		aside ->
-#			@header
-#			
 		section ->
 			h1 'Making Coffee'
 			h2 'Brewing'
