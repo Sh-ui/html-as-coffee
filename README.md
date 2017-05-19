@@ -15,7 +15,7 @@ Caffeinated HTML ☕
 - Process all code across many components &/or languages to a single HTML file that is compiled and minified &/or compressed
 	to be used efficiently and in a browser or app.
 
-- Images and other assets will likely be outsourced, but with code that is unique to **your page**; united
+- Images and other assets will likely be outsourced, but with code that is unique to *your page united*
 
 </br>
 
