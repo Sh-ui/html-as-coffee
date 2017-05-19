@@ -1,24 +1,28 @@
-@header = require 'components.coffee'
-@header.header()
+# @header = require 'components.coffee'
+# @header.header()
 
 doctype 5
 html ->
 
 	head ->
+		
 		meta charset: 'utf-8'
 
 		title 'Caffeine Test'
 
-		link href: 'lib/styles/styles.css'
-		,    rel:  'stylesheet'
+		link rel:  'stylesheet'
 		,    type: 'text/css'
+		,    href: 'lib/styles/styles.css'
 
+		link rel:  'icon'
+		,    type: 'image/svg'
+		,    href: 'lib/media/coffeecup.svg'
 
 	body ->
-
-		aside ->
-			@header
-			
+#
+#		aside ->
+#			@header
+#			
 		section ->
 			h1 'Making Coffee'
 			h2 'Brewing'
