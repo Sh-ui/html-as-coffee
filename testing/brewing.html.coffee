@@ -13,8 +13,8 @@ html ->
 		,    href: 'lib/styles/styles.css'
 
 		link rel:  'icon'
-		,    type: 'image/gif'
-		,    href: 'lib/media/coffeecupicon.gif'
+		,    type: 'image/svg+xml'
+		,    href: 'lib/media/ccoffeecup.svg'
 
 	body ->
 #		aside ->
