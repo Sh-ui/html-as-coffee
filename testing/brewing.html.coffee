@@ -4,11 +4,11 @@ html ->
 	head ->
 		meta charset: 'utf-8'
 
-		title 'caffeine test'
+		title 'Caffeine Test'
 
-		link href: 'lib/styles/styles.css',
-		rel: 'stylesheet',
-		type: 'text/css'
+		link href: 'lib/styles/styles.css'
+		,    rel:  'stylesheet'
+		,    type: 'text/css'
 
 	body ->
 		section ->
