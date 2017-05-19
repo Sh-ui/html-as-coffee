@@ -3,11 +3,9 @@
 
 doctype 5
 html ->
-
+	
 	head ->
-		
 		meta charset: 'utf-8'
-
 		title 'Caffeine Test'
 
 		link rel:  'stylesheet'
@@ -15,11 +13,10 @@ html ->
 		,    href: 'lib/styles/styles.css'
 
 		link rel:  'icon'
-		,    type: 'image/svg'
-		,    href: 'lib/media/coffeecup.svg'
+		,    type: 'image/gif'
+		,    href: 'lib/media/coffeecupicon.gif'
 
 	body ->
-#
 #		aside ->
 #			@header
 #			
